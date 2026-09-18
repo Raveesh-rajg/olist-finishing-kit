@@ -1,3 +1,5 @@
+> Historical draft/template. Use the root README for current implementation status. Unfilled or example figures below are not verified results.
+
 # dbt + Snowflake E-Commerce Analytics Platform
 
 An end-to-end analytics platform on the Brazilian e-commerce (Olist) dataset:

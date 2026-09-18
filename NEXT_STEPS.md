@@ -1,3 +1,5 @@
+> Historical draft/template. Use the root README for current implementation status. Unfilled or example figures below are not verified results.
+
 # Olist finishing kit — how to use these files
 
 1. **README_for_repo.md** → replaces the repo's README.md (fill the Tableau URL

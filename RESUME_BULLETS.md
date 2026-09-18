@@ -1,3 +1,5 @@
+> Historical draft/template. Use the root README for current implementation status. Unfilled or example figures below are not verified results.
+
 # Resume bullets — Project 1 (Olist / dbt / Snowflake)
 
 XYZ format, result first. Two kinds of claims here: **repo facts** (safe to use

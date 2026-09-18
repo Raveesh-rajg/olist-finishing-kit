@@ -1,3 +1,5 @@
+> Historical draft/template. Use the root README for current implementation status. Unfilled or example figures below are not verified results.
+
 # COST_ANALYSIS.md — for the repo's docs/
 
 Every number in this doc must come from your own account. Run the queries,
